@@ -11,7 +11,7 @@
     <link href="css/styles.css" rel="stylesheet" type="text/css" media="all" />
   </head>
   <body>
-    <form action="php/admin.php" method="POST">
+    <form action="php/index.php" method="POST">
       <div class="admin-login">
         <input type="submit" name="admin" value="Admin" id="admin" />
       </div>
